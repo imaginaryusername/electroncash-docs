@@ -29,9 +29,9 @@ Getting Started
 Contributing
 ------------
 
-To contribute to Electron Cash, check the `GitHub repo <https://github.com/fyookball/electrum>`_ and contact Jonald Fyookball.
+To contribute to Electron Cash, check the `GitHub repo <https://github.com/Electron-Cash/Electron-Cash>`_ and contact Jonald Fyookball.
 
-To contribute to this documentation, submit a pull request to the `GitHub documentation repo <https://github.com/Danconnolly/electroncash-docs>`_.
+To contribute to this documentation, submit a pull request to the `GitHub documentation repo <https://github.com/Electron-Cash/electroncash-docs>`_.
 
 
 Old Documentation
