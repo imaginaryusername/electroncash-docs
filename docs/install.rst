@@ -4,7 +4,9 @@ Installing Electron Cash
 
 Installing on Linux
 -------------------
-Linux users will need to run Electron Cash directly from the source code.
+To avoid dependency issues, you can use the Electron Cash "AppImage", a self-contained app bundle with everything you need already inside. Just download the AppImage file and set it as executable with "chmod +x <fileName>".
+
+Alternatively, Linux users can run Electron Cash directly from the source code:
 
 1. You will need Python version 3.4.0 or higher. Check your python version with ``python3 --version``.
 #. Install the dependencies:
